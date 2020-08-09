@@ -1,2 +1,2 @@
 # NotABot
-a discord bot that knows no downloads. stream audio directly from youtube.
+A Discord bot that knows no downloads. Use !play + your search string to stream audio directly from youtube.
